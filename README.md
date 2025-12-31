@@ -4,4 +4,10 @@ In this paper, we present a novel approach to data-driven neuro-fuzzy modeling, 
 
 **Keywords: forecast, inflow and outflow, money, neuro-fuzzy, religious**
 
+#### Mathematical Model
+
+![Models](mathematical-model.png)
+
+#### Publication 
+
 Publish Date 31 Aug 2021 [https://garuda.kemdiktisaintek.go.id/documents/detail/2220341]
